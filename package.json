@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jugaz/javascript-intro.git"
+    "url": "git+https://github.com/jugaz/01-bases-js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jugaz/javascript-intro/issues"
+    "url": "https://github.com/jugaz/01-bases-js/issues"
   },
-  "homepage": "https://github.com/jugaz/javascript-intro#readme"
+  "homepage": "https://github.com/jugaz/01-bases-js#readme"
 }
